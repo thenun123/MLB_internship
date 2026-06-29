@@ -1,0 +1,70 @@
+{
+    "institution": "Python Learning Academy",
+    "total_students": 4,
+    "students": [
+        {
+            "id": "S001",
+            "name": "Alice Johnson",
+            "age": 20,
+            "grade": "A",
+            "subjects": [
+                "Math",
+                "Physics",
+                "CS"
+            ],
+            "gpa": 3.9,
+            "contact": {
+                "email": "alice@example.com",
+                "phone": "0300-1111111"
+            }
+        },
+        {
+            "id": "S002",
+            "name": "Bob Smith",
+            "age": 21,
+            "grade": "B",
+            "subjects": [
+                "English",
+                "History",
+                "Art"
+            ],
+            "gpa": 3.2,
+            "contact": {
+                "email": "bob@example.com",
+                "phone": "0300-2222222"
+            }
+        },
+        {
+            "id": "S003",
+            "name": "Charlie Brown",
+            "age": 19,
+            "grade": "A+",
+            "subjects": [
+                "Math",
+                "Chemistry",
+                "Biology"
+            ],
+            "gpa": 4.0,
+            "contact": {
+                "email": "charlie@example.com",
+                "phone": "0300-3333333"
+            }
+        },
+        {
+            "id": "S004",
+            "name": "Diana Prince",
+            "age": 22,
+            "grade": "B+",
+            "subjects": [
+                "CS",
+                "Math",
+                "Statistics"
+            ],
+            "gpa": 3.5,
+            "contact": {
+                "email": "diana@example.com",
+                "phone": "0300-4444444"
+            }
+        }
+    ]
+}
