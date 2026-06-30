@@ -1,0 +1,56 @@
+{
+    "library_name": "Python Community Library",
+    "total_books": 5,
+    "books": [
+        {
+            "book_id": "B001",
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "genre": "Programming",
+            "total_copies": 3,
+            "available_copies": 2,
+            "is_borrowed": true,
+            "borrowed_by": "Alice Johnson"
+        },
+        {
+            "book_id": "B002",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "genre": "Software Engineering",
+            "total_copies": 2,
+            "available_copies": 2,
+            "is_borrowed": false,
+            "borrowed_by": null
+        },
+        {
+            "book_id": "B003",
+            "title": "Deep Learning",
+            "author": "Ian Goodfellow",
+            "genre": "Artificial Intelligence",
+            "total_copies": 1,
+            "available_copies": 0,
+            "is_borrowed": true,
+            "borrowed_by": "Bob Smith"
+        },
+        {
+            "book_id": "B004",
+            "title": "Automate the Boring Stuff with Python",
+            "author": "Al Sweigart",
+            "genre": "Programming",
+            "total_copies": 4,
+            "available_copies": 4,
+            "is_borrowed": false,
+            "borrowed_by": null
+        },
+        {
+            "book_id": "B005",
+            "title": "Designing Data-Intensive Applications",
+            "author": "Martin Kleppmann",
+            "genre": "Software Engineering",
+            "total_copies": 2,
+            "available_copies": 2,
+            "is_borrowed": false,
+            "borrowed_by": null
+        }
+    ]
+}
