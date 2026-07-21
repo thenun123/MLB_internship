@@ -120,6 +120,6 @@ Analyze / Draw        (cv2.drawContours, boundingRect, etc.)
 ---
 
 ## 📅 Date
-**July 9, 2026**
+**July 21, 2026**
 
 > *"Contours are the foundation of object detection and image segmentation — understanding them makes everything else easier."*
