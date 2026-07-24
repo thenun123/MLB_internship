@@ -21,7 +21,7 @@ Extract text from any image using EasyOCR with preprocessing options and downloa
 ## 🚀 Links
 
 - **GitHub:** https://github.com/thenun123/MLB_internship
-- **Hugging Face Space:** *(add link after deployment)*
+- **Hugging Face Space:** https://huggingface.co/spaces/nthe/OCRDocumentReader 
 
 ---
 
@@ -162,6 +162,6 @@ python app.py
 ---
 
 ## 📅 Date
-**July 11, 2026**
+**July 24, 2026**
 
 > *"OCR bridges the gap between physical documents and digital data processing."*
