@@ -1,0 +1,16 @@
+OCR Results: img05_handwritten.png
+========================================
+
+[1] [0.34] Dean Sqiend,
+[2] [0.06] #cterou
+[3] [0.02] Ou
+[4] [0.12] sell
+[5] [0.02] ~Mlealinq-al_3P4L_E
+[6] [0.21] xou-latlet
+[7] [0.16] ~Basb _
+[8] [0.32] ~Regands,
+[9] [0.05] Zizprn
+[10] [0.13] bdorr"
+[11] [0.01] RBrbnri"
+
+Total: 11 blocks

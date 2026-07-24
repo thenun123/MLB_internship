@@ -1,0 +1,13 @@
+OCR Results: img04_book_page.png
+========================================
+
+[1] [0.75] Chapter 1: Introduction to Al
+[2] [0.88] Artificial Intelligence (Al) refers
+[3] [0.90] the simulation of human intellige
+[4] [1.00] in
+[5] [0.91] machines that are programm
+[6] [0.82] think and learn like humans:
+[7] [1.00] Page
+[8] [0.69] of 250
+
+Total: 8 blocks

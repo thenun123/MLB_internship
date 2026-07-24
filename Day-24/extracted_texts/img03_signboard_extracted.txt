@@ -1,0 +1,8 @@
+OCR Results: img03_signboard.png
+========================================
+
+[1] [0.59] WELCOME T0
+[2] [0.77] WHORE TECH HUB
+[3] [0.40] Open? @AM=6PM
+
+Total: 3 blocks

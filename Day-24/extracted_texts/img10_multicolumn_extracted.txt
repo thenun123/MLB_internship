@@ -1,0 +1,22 @@
+OCR Results: img10_multicolumn.png
+========================================
+
+[1] [1.00] COLUMN
+[2] [1.00] COLUMN
+[3] [1.00] 2
+[4] [0.79] Python Tips:
+[5] [1.00] Concepts:
+[6] [0.57] Uge list comp:
+[7] [1.00] OCR
+[8] [0.99] Text Read
+[9] [0.90] Avoid globals
+[10] [0.34] Al
+[11] [0.99] Smart
+[12] [0.97] Write docstrings
+[13] [1.00] ML
+[14] [1.00] Learning
+[15] [1.00] Test your code
+[16] [0.99] Vision
+[17] [0.96] Key
+
+Total: 17 blocks

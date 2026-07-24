@@ -1,0 +1,11 @@
+OCR Results: img07_low_light.png
+========================================
+
+[1] [0.70] CONFIDENTEAL REPORT
+[2] [0.19] 03 Financidl Summary
+[3] [0.46] Revenue3 612M
+[4] [0.73] Expenses? $08M
+[5] [0.15] Net Profit: JOA4M
+[6] [0.65] Growth Rate8 153
+
+Total: 6 blocks

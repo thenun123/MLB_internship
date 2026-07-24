@@ -1,0 +1,6 @@
+OCR Results: img09_number_plate.png
+========================================
+
+[1] [0.84] LHR-2026-
+
+Total: 1 blocks

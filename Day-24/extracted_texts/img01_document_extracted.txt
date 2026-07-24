@@ -1,0 +1,11 @@
+OCR Results: img01_document.png
+========================================
+
+[1] [0.99] INVOICE #2026-001
+[2] [0.68] Date: July 11, 2026
+[3] [0.99] Company: TechCorp Ltd
+[4] [0.89] Address: 123 Main Street
+[5] [0.97] City: Lahore, Pakistan
+[6] [0.89] Total Amount: PKR 15,000
+
+Total: 6 blocks
